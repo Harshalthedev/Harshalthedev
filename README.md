@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning: Spring Security, Docker & Containerization CI/CD Pipelines (GitHub Actions)
 
-- 💬 Ask me about: Spring Boot APIs • Scalable Backend Design • WebSocket     • Docker Deployment OOP & SOLID   • DSA (350+ LeetCode) • SQL Optimization • Git/GitHub Collaboration
+- 💬 Ask me about: Spring Boot APIs • Scalable Backend Design • WebSocket     • Docker Deployment OOP & SOLID   • DSA (400+ LeetCode) • SQL Optimization • Git/GitHub Collaboration
 
 
 
