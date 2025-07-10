@@ -43,7 +43,7 @@ I'm constantly learning and pushing my limits to become a better engineer and co
 - Object-Oriented Design & SOLID Principles  
 - SQL Query Optimization  
 - Git/GitHub for Team Collaboration  
-- Problem-Solving (400+ LeetCode 🔥)
+- Problem-Solving (450+ LeetCode 🔥)
 
 ---
 
