@@ -16,7 +16,7 @@ I'm a passionate **Java Backend Developer** with a strong foundation in **Comput
 - 🔧 **Spring Boot**, **REST APIs**, **MySQL**
 - 🔄 **WebSockets** for real-time communication
 - 🧪 Hands-on with **Docker**, **CI/CD pipelines**, and **Spring Security**
-- 💻 Solved **450+ LeetCode problems** — refining my **algorithmic thinking** and **data structures mastery**
+- 💻 Solved **500+ LeetCode problems** — refining my **algorithmic thinking** and **data structures mastery**
 
 I'm constantly learning and pushing my limits to become a better engineer and contribute meaningfully to real-world projects.
 
