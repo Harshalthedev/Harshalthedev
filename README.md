@@ -28,6 +28,7 @@ I'm constantly learning and pushing my limits to become a better engineer and co
 
 ### 🌱 Learning & Exploring
 
+- 👩‍💻 JavaScript and ReactJs
 - 🔐 Spring Security  
 - 📦 Docker & Containerization  
 - 🔁 CI/CD with GitHub Actions
@@ -43,7 +44,7 @@ I'm constantly learning and pushing my limits to become a better engineer and co
 - Object-Oriented Design & SOLID Principles  
 - SQL Query Optimization  
 - Git/GitHub for Team Collaboration  
-- Problem-Solving (450+ LeetCode 🔥)
+- Problem-Solving (550+ LeetCode 🔥)
 
 ---
 
