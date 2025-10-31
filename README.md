@@ -4,8 +4,8 @@
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 ## 🚀 About Me
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 I’m a passionate **Java Backend Developer** with a strong foundation in Computer Science and keen interest in **AI & scalable backend systems**.
 
@@ -15,6 +15,8 @@ I’m a passionate **Java Backend Developer** with a strong foundation in Comput
 - 💻 Solved **500+ LeetCode problems** – strong Data Structures & Algorithms skills
 
 I continuously explore technologies to improve, innovate, and contribute to meaningful projects.
+
+<br>
 
 ---
 
